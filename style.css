@@ -121,11 +121,13 @@ body{
         padding: 10px 20px;
         font-size: 16px;
         margin-right: 8px;
+        min-width: 100px; /* Ensures the input doesn't shrink too much */
     }
 
     .search button{
         width: 50px;
         height: 50px;
+        min-width: 50px; /* Ensures the button doesn't shrink */
     }
 
     .weather-icon{
