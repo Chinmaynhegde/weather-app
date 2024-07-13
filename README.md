@@ -1,1 +1,1 @@
-Resposive website- https://chinmaynhegde.github.io/weather-app/
+Responsive website- https://chinmaynhegde.github.io/weather-app/
